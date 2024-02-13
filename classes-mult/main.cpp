@@ -1,6 +1,5 @@
 #include <iostream>
 #include "rectangle.hpp"
-#include "rectangle.cpp"
 
 
 int main() {
